@@ -32,8 +32,3 @@ let palavraTentativa = tentativas > 1 ? 'tentativas' : 'tentativa' ;
 // } else{
 //   alert(`isso ai! você descobriu o número secreto:  ${numeroSecreto} de primeira PARABÉNS`);
 // }
-<<<<<<< HEAD
-
-
-=======
->>>>>>> 4b1a8bf2c12678770dcf74e23c6f84ebe3697331
