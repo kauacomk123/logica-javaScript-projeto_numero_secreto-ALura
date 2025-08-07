@@ -10,6 +10,8 @@ Bem-vindo ao **Jogo do Número Secreto**, um mini game feito com HTML, CSS e Jav
 4. O jogador continua tentando até acertar o número.
 5. No final, o jogo mostra a quantidade de tentativas realizadas.
 
+👉 [Clique aqui para jogar o jogo agora](https://kauacomk123.github.io/projeto_numero_secreto-Alura/)
+
 ## 📂 Estrutura do Projeto
 
 Este projeto está organizado da seguinte forma:
